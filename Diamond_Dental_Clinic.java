@@ -6,7 +6,6 @@ package Diamond_Dental_Clinic;
 
 
 //Murooj Al-zahrani
-//ID: s443008435
 
 
 //website to Diamond Dental Clinic
@@ -1248,14 +1247,6 @@ int Luck_Contest = input.nextInt();//Allows the user to enter the number he gues
 
         
 
-
-
-
-
-/* Thank you from the heart, Dr. Shaima,
-I gained a lot of experience while writing every letter and line in this task..
-I am glad that the first level of programming in my study career in computer science was with you
-Thank you so much for everything you've given us*/
 
 
 
